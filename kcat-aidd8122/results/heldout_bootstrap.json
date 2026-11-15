@@ -1,0 +1,14 @@
+{
+  "source": "Transcribed from user supplied server output",
+  "groups": 75,
+  "replicates": 2000,
+  "comparison": "equal_mix minus 35M",
+  "RMSE_95CI": [
+    -0.08519360304715805,
+    -0.017897035555408468
+  ],
+  "MAE_95CI": [
+    -0.07320467249064137,
+    -0.01063348579805235
+  ]
+}
